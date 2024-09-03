@@ -32,7 +32,7 @@ function Login() {
 
   return (
     <>
-      <div className="login-container" style={{ background: "url(background.jpg)", backgroundSize: "cover" }}>
+      <div className="login-container">
         <style>
           {`
             .form-container {
